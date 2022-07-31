@@ -14,3 +14,15 @@ Enums were introduced in java 5.0.Enums restrict a variable to have one of only 
 ## Note:
 Enums can be declared as their own or inside a class methods,variables,constructors can be defined inside enums as well.
 
+## Comments in java:
+
+### Single line Comments
+* // Single line comment
+
+### Multi line Comments
+
+<l1>/* multi line comments
+*/ </l1>
+
+
+
